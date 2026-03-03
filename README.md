@@ -1,5 +1,5 @@
 # Security & Compliance AI Agent (Proof of Concept)
-![](https://raw.githubusercontent.com/zhnkevin/aws-interview-security-compliance-agent/refs/heads/main/aws_interview_agent_architecture.png)
+![]([https://raw.githubusercontent.com/zhnkevin/aws-interview-security-compliance-agent/refs/heads/main/aws_interview_agent_architecture.png](https://raw.githubusercontent.com/zhnkevin/aws-security-compliance-agent-poc/refs/heads/main/aws_agent_architecture.png))
 
 # Deployment Guide
 
