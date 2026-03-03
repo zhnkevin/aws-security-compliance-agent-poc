@@ -5,6 +5,8 @@
 
 ## Architecture Overview
 
+This is a proof of concept AI agent meant to showcase how you can build the framework of an AI agent using AWS services. 
+
 This project consists of two Lambda functions:
 - **Agent Lambda** (`agent.py`) — the main security & compliance chatbot
 - **Evaluator Lambda** (`agent_evaluator.py`) — invokes the agent with test cases and stores results in S3
